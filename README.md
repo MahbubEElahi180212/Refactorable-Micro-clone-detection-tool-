@@ -12,9 +12,9 @@ Code clone: it refers to duplicate or nearly duplicate code segments within a co
  In code clone refactoring can be done by merging the similar code segemet by renaming variable if required.
 
  Our tool will identify important candidate for refactoring.
-## Deployment
+## Deployment of the projoect
 
-To deploy this project run
+
 
 #### 1. Install Java Runtime Environment
 
@@ -57,20 +57,5 @@ ICMS (Integrated Clone Management system) terminal will open.
   This willl store all the refactorable micro-clone candidate in the database
 
   
-
-
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-
-
-
-You need to run the below commad to connect xamp from ubuntu terminal.
-```bash
-sudo /opt/lampp/lampp start`
-```
-
 
 
