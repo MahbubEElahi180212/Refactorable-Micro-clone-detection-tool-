@@ -49,10 +49,14 @@ ICMS (Integrated Clone Management system) terminal will open.
  #### (i) Set subject system path
   ####  (ii)Set the programming language
   ####  (iii) Set the last Revision
-  ####  (iv) Set the Database Connection seeting
-  ####  (v) Click the "Show Clone Analysis Dialog" button which will lead you to a          new terminal
-  ####  (v) Set the clone type in that terminal
-  ####  (vi) Run all the button from "SHow Clone Analysis Dialog" to "Refactorable Micro clone"
+  ####  (iv) Set the Database Connection seeting.
+   ####  (v) Click the "Show Method Analysis Dialog" button which will lead you to a   new terminal
+   ####  (vi) Run all the button from "Extract Methods" to "Map changes to Methods"
+
+  
+  ####  (vii) Now click the "Show Clone Analysis Dialog" button which will lead you to a new terminal
+  ####  (viii) Set the clone type in that terminal
+  ####  (ix) Run all the button from "Show Clone Analysis Dialog" to "Refactorable Micro clone"
 
   This willl store all the refactorable micro-clone candidate in the database
 
